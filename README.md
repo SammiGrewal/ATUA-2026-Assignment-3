@@ -1,6 +1,6 @@
 # ATUA 2026 — Assignment 3: Schelling Agent-Based Model
 
-## Overview
+## Overview:
 
 This assignment explores Agent-Based Models and their usefulness in social-scientific applications. Here, The Schelling Model is evaluated. The notebook covers:
 
@@ -8,7 +8,7 @@ This assignment explores Agent-Based Models and their usefulness in social-scien
 2. Written answers to six analytical questions.
 3. And a critical evaluation of The Schelling Model.
 
-## Repository Contents
+## Repository Contents:
 
 | File | Description |
 |------|-------------|
