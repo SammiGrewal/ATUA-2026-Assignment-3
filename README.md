@@ -13,6 +13,5 @@ This assignment explores Agent-Based Models and their usefulness in social-scien
 | File | Description |
 |------|-------------|
 | `assignment_py12.ipynb` | Main Jupyter notebook with model runs and written answers |
-| `schelling_py12.py` | Python implementation of the Schelling ABM |
 | `ABM_Assignment_Image_1.png` | Example output — run 1 (base parameters) |
 | `ABM_Assignment_Image_2.png` | Example output — run 2 (base parameters, different random seed) |
